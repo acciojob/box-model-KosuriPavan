@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#rectangle{
+.container{
 	justify-content:space-around;
 	padding-left:30px;
 	padding-right:30px;
@@ -12,7 +12,7 @@
 	border:3px solid black;
 	border-radius:40px;
 }
-#green{
+.green{
 	
 	background-color:#028000;
 	width:80px;
@@ -21,7 +21,7 @@
 	border-radius:40px;
 
 }
-#yellow{
+.yellow{
 	background-color:#FFFE00;
 	width:80px;
 	height:80px;
@@ -29,7 +29,7 @@
 	border-radius:40px;
 
 }
-#red{
+.red{
 	background-color:#FF0000;
 	width:80px;
 	height:80px;
