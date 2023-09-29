@@ -14,7 +14,7 @@
 }
 .green{
 	
-	background-color:#028000;
+	background-color:green;
 	width:80px;
 	height:80px;
 	border:none;
@@ -22,7 +22,7 @@
 
 }
 .yellow{
-	background-color:#FFFE00;
+	background-color:yellow;
 	width:80px;
 	height:80px;
 	border:none;
@@ -30,7 +30,7 @@
 
 }
 .red{
-	background-color:#FF0000;
+	background-color:red;
 	width:80px;
 	height:80px;
 	border:none;
